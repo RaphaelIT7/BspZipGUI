@@ -21,6 +21,11 @@
       <BspZip>C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\bin\bspzip.exe</BspZip>
       <GameInfo>C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2\hl2\gameinfo.txt</GameInfo>
     </Game>
+    <Game>
+      <Name>Garry's Mod</Name>
+      <BspZip>C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\bin\bspzip.exe</BspZip>
+      <GameInfo>C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\gameinfo.txt</GameInfo>
+    </Game>
   </BspZipDirectories>
   <CustomFilesDirectories>
     <Map>
